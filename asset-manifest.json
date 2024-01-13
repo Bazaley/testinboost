@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/testinboost/static/css/main.efb61f80.css",
+    "main.js": "/testinboost/static/js/main.4e4cfafd.js",
+    "static/js/652.e07cc907.chunk.js": "/testinboost/static/js/652.e07cc907.chunk.js",
+    "static/js/819.3db9fed5.chunk.js": "/testinboost/static/js/819.3db9fed5.chunk.js",
+    "index.html": "/testinboost/index.html",
+    "main.efb61f80.css.map": "/testinboost/static/css/main.efb61f80.css.map",
+    "main.4e4cfafd.js.map": "/testinboost/static/js/main.4e4cfafd.js.map",
+    "652.e07cc907.chunk.js.map": "/testinboost/static/js/652.e07cc907.chunk.js.map",
+    "819.3db9fed5.chunk.js.map": "/testinboost/static/js/819.3db9fed5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.efb61f80.css",
+    "static/js/main.4e4cfafd.js"
+  ]
+}
